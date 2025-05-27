@@ -57,8 +57,8 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
 ---
 
 ## 🗂 Project Structure
-
-```📂 data-ml-project/
+```
+📂 data-ml-project/
 ├── data/
 │ └── mobile_app_user_dataset_1.xlsx # Raw dataset
 │
@@ -67,7 +67,8 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
 ├── gmm_clustering.ipynb # Gaussian Mixture Model clustering
 │
 ├── requirements.txt # Python packages used
-└── README.md # Project documentation```
+└── README.md # Project documentation
+```
 
 ---
 ## 📓 Project Notebooks
@@ -87,7 +88,7 @@ Uses probabilistic soft clustering to reveal overlapping user segments and app u
 
 📓 [View GMM notebook](gmm_clustering.ipynb)
 
-## 🧠 Key Insights & Conclusion
+## 📈 Key Insights & Conclusion
 
 - DBSCAN highlighted **high-density user behavior segments** and outliers
 - GMM captured **gradient-like behavioral overlaps** between user groups
@@ -112,10 +113,10 @@ Slide deck summarizing methodology, findings, and key personas.
     
 🏆 Achievements
 
-This project was recognized as Best Data Analysis Project during a Data Analysis Ironhack BCN Bootcamp, evaluated on EDA rigor, clustering depth, and storytelling clarity.
+    This project was recognized as Best Data Analysis Project during a Data Analysis Ironhack BCN Bootcamp, evaluated on EDA rigor, clustering depth, and storytelling clarity.
 
 📬 Contact
 
-Marija Kilibarda
-📧 [marijaxkilibarda@gmail.com]
-🔗 [LinkedIn profile]
+   Marija Kilibarda
+   📧 [marijaxkilibarda@gmail.com]
+   🔗 [LinkedIn profile]
