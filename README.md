@@ -48,7 +48,7 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
    - **DBSCAN**
      - Tuned `eps` and `min_samples` via k-distance plot
    - **Gaussian Mixture Model (GMM)**
-     - Selected component count with BIC
+     - Selected component count with BIC and AIC
 
 4. **Visual Storytelling**
    - Built an interactive Figma prototype for the mock app **HiDriver**
@@ -56,16 +56,66 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
    - Visual archetypes of user groups 
 ---
 
-## 🤖 Unsupervised Learning Models
+## 🗂 Project Structure
 
-### 1. **DBSCAN Clustering**
-- Non-parametric clustering based on user behavior density
-- Useful for identifying niche or irregular app usage types
+📂 data-ml-project/
+├── data/
+│ └── harvard_survey_data.xlxc # Raw dataset
+│
+├── eda_analysis.ipynb # Exploratory Data Analysis
+├── dbscan_clustering.ipynb # DBSCAN clustering
+├── gmm_clustering.ipynb # Gaussian Mixture Model clustering
+│
+├── requirements.txt # Python packages used
+└── README.md # Project documentation
+
+---
+## 📓 Project Notebooks
+
+### 1. **Exploratory Data Analysis (EDA)**
+Analyzes user behavior patterns, key feature distributions, and relationships between mobile usage variables.
+
+📓 [View EDA notebook](eda_analysis.ipynb)
+
+### 2. **DBSCAN Clustering**
+Applies density-based clustering to detect core user behavior groups and noise points.
 
 📓 [View DBSCAN notebook](dbscan_clustering.ipynb)
 
-### 2. **Gaussian Mixture Model (GMM)**
-- Probabilistic clustering for nuanced, overlapping behavior
-- Helped identify "explorers", "habitual users", and other app personas
+### 3. **Gaussian Mixture Model (GMM)**
+Uses probabilistic soft clustering to reveal overlapping user segments and app usage archetypes.
 
 📓 [View GMM notebook](gmm_clustering.ipynb)
+
+## 🧠 Key Insights & Conclusion
+
+- DBSCAN highlighted **high-density user behavior segments** and outliers
+- GMM captured **gradient-like behavioral overlaps** between user groups
+- Factors like **app abandonment reasons** and **discovery methods** were most indicative of behavioral types
+- Insights may help developers improve **app design**, **marketing**, and **user retention**
+
+---
+
+## 📽️ Visual Presentation
+
+Slide deck summarizing methodology, findings, and key personas.
+
+🔗 **[Click to view the presentation](https://)**
+
+---
+📚 Dataset Citation
+
+    Lim, Soo Ling, 2014,
+    "Worldwide Mobile App User Behavior Dataset",
+    Harvard Dataverse, V1
+    DOI: https://doi.org/10.7910/DVN/27459 
+    
+🏆 Achievements
+
+This project was recognized as Best Data Analysis Project during a Data Analysis Ironhack BCN Bootcamp, evaluated on EDA rigor, clustering depth, and storytelling clarity.
+
+📬 Contact
+
+Marija Kilibarda
+📧 [marijaxkilibarda@gmail.com]
+🔗 [LinkedIn profile]
