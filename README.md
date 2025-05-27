@@ -101,7 +101,7 @@ Uses probabilistic soft clustering to reveal overlapping user segments and app u
 
 Slide deck summarizing methodology, findings, and key personas.
 
-🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**
+🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**  📝 note: *(opens in browser)*
 
 ---
 📚 Dataset Citation
