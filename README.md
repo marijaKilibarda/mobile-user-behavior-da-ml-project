@@ -64,7 +64,8 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
 │
 ├── eda_analysis.ipynb # Exploratory Data Analysis
 ├── dbscan_clustering.ipynb # DBSCAN clustering
-├── gmm_clustering.ipynb # Gaussian Mixture Model clustering
+├── gmm_clustering_v1.ipynb # GMM clustering Initial 
+├── gmm_clustering_v2.ipynb # GMM clustering Refined
 │
 ├── requirements.txt # Python packages used
 └── README.md # Project documentation
@@ -76,17 +77,23 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
 ### 1. **Exploratory Data Analysis (EDA)**
 Analyzes user behavior patterns, key feature distributions, and relationships between mobile usage variables.
 
-📓 [View EDA notebook](eda_analysis.ipynb)
+📓 [View EDA notebook](data-ml-project/eda_analysis.ipynb)
 
 ### 2. **DBSCAN Clustering**
 Applies density-based clustering to detect core user behavior groups and noise points.
 
 📓 [View DBSCAN notebook](dbscan_clustering.ipynb)
 
-### 3. **Gaussian Mixture Model (GMM)**
-Uses probabilistic soft clustering to reveal overlapping user segments and app usage archetypes.
+### 3. Gaussian Mixture Model – Initial Version
+First attempt at soft clustering using GMM with selected number of features.
 
-📓 [View GMM notebook](gmm_clustering.ipynb)
+📓 [View GMM v1 notebook](data-ml-project/..)
+
+### 4. Gaussian Mixture Model – Refined Version
+Improved model with parameter tuning with BAC & AIC
+
+📓 [View GMM v2 notebook](data-ml-project/..)
+
 
 ## 📈 Key Insights & Conclusion
 
@@ -101,7 +108,7 @@ Uses probabilistic soft clustering to reveal overlapping user segments and app u
 
 Slide deck summarizing methodology, findings, and key personas.
 
-🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**  📝 note: *(opens in browser)*
+🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**    📝 note: *(opens in browser, use right click)*
 
 ---
 📚 Dataset Citation
@@ -117,5 +124,4 @@ Slide deck summarizing methodology, findings, and key personas.
 
 📬 Contact
 
-   📧 [marijaxkilibarda@gmail.com]
-   🔗 [LinkedIn profile]
+   🔗 [LinkedIn profile](https://www.linkedin.com/in/marija-kilibarda-3b939114/) 📝 note: *(opens in browser, use right click)*
