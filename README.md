@@ -1,4 +1,4 @@
-# 📱 Mobile App Usage Behavior – EDA & Unsupervised Machine Learning
+# 📱 Mobile User Behavior – EDA & Unsupervised ML
 
 This project analyzes a subset of the **"Worldwide Mobile App User Behavior Dataset"** from **Harvard Dataverse**, comprising over **10,000 survey responses** from users in **15 countries**. The analysis focuses on understanding user behavior related to **how people find, download, and abandon mobile apps**. 
 
@@ -22,7 +22,7 @@ Survey content covered:
 2. **Demographics**
    - Age, gender, education, income, nationality, etc.
 3. **Psychographics**
-   - **Big Five Personality Traits**
+   - Big Five Personality Traits
 
 🔍 This project focuses **exclusively on mobile app usage behavior**, analyzing behavioral patterns and clustering user types using unsupervised machine learning.
 As part of the applied use case, I created a **fictional mobile app prototype called “HiDriver”**, designed and prototyped in **Figma**, to help illustrate how insights from clustering could inform feature prioritization and user targeting.
@@ -101,7 +101,7 @@ Uses probabilistic soft clustering to reveal overlapping user segments and app u
 
 Slide deck summarizing methodology, findings, and key personas.
 
-🔗 **[Click to view the presentation](https://)**
+🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**
 
 ---
 📚 Dataset Citation
@@ -113,10 +113,9 @@ Slide deck summarizing methodology, findings, and key personas.
     
 🏆 Achievements
 
-    This project was recognized as Best Data Analysis Project during a Data Analysis Ironhack BCN Bootcamp, evaluated on EDA rigor, clustering depth, and storytelling clarity.
+    The project was recognized as Best Data Analysis Project evaluated on EDA rigor, clustering depth, and storytelling clarity [DA IRONHACK-BCN Bootcamp 2024]
 
 📬 Contact
 
-   Marija Kilibarda
    📧 [marijaxkilibarda@gmail.com]
    🔗 [LinkedIn profile]
