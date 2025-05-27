@@ -90,7 +90,7 @@ First attempt at soft clustering using GMM with selected number of features.
 📓 [View GMM v1 notebook](data-ml-project/..)
 
 ### 4. Gaussian Mixture Model – Refined Version
-Improved model with parameter tuning with BAC & AIC
+Improved model with parameter tuning with BIC & AIC
 
 📓 [View GMM v2 notebook](data-ml-project/..)
 
