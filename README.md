@@ -58,16 +58,16 @@ As part of the applied use case, I created a **fictional mobile app prototype ca
 
 ## 🗂 Project Structure
 
-📂 data-ml-project/
+```📂 data-ml-project/
 ├── data/
-│ └── harvard_survey_data.xlxc # Raw dataset
+│ └── mobile_app_user_dataset_1.xlsx # Raw dataset
 │
 ├── eda_analysis.ipynb # Exploratory Data Analysis
 ├── dbscan_clustering.ipynb # DBSCAN clustering
 ├── gmm_clustering.ipynb # Gaussian Mixture Model clustering
 │
 ├── requirements.txt # Python packages used
-└── README.md # Project documentation
+└── README.md # Project documentation```
 
 ---
 ## 📓 Project Notebooks
