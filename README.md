@@ -82,17 +82,17 @@ Analyzes user behavior patterns, key feature distributions, and relationships be
 ### 2. **DBSCAN Clustering**
 Applies density-based clustering to detect core user behavior groups and noise points.
 
-📓 [View DBSCAN notebook](dbscan_clustering.ipynb)
+📓 [View DBSCAN notebook](data-ml-project/dbscan_clustering.ipynb)
 
 ### 3. Gaussian Mixture Model – Initial Version
 First attempt at soft clustering using GMM with selected number of features.
 
-📓 [View GMM v1 notebook](data-ml-project/..)
+📓 [View GMM v1 notebook](data-ml-project/gmm_clustering_v1.ipynb)
 
 ### 4. Gaussian Mixture Model – Refined Version
 Improved model with parameter tuning with BIC & AIC
 
-📓 [View GMM v2 notebook](data-ml-project/..)
+📓 [View GMM v2 notebook](data-ml-project/gmm_clustering_v2.ipynb)
 
 
 ## 📈 Key Insights & Conclusion
