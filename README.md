@@ -108,7 +108,7 @@ Improved model with parameter tuning with BIC & AIC
 
 Slide deck summarizing methodology, findings, and key personas.
 
-🔗 **[Click to view the presentation](https://shorturl.at/S5RBo)**    📝 note: *(opens in browser, use right click)*
+🔗 **[Click to view the presentation]([https://shorturl.at/qnbdz])**    📝 note: *(opens in browser, use right click)*
 
 ---
 📚 Dataset Citation
