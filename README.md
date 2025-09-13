@@ -108,7 +108,7 @@ Improved model with parameter tuning with BIC & AIC
 
 Slide deck summarizing methodology, findings, and key personas.
 
-🔗 **[Click to view the presentation]([https://shorturl.at/qnbdz])**    📝 note: *(opens in browser, use right click)*
+🔗 **[View the presentation](https://shorturl.at/qnbdz)**    
 
 ---
 📚 Dataset Citation
@@ -124,4 +124,4 @@ Slide deck summarizing methodology, findings, and key personas.
 
 📬 Contact
 
-   🔗 [LinkedIn profile](https://www.linkedin.com/in/marija-kilibarda-3b939114/) 📝 note: *(opens in browser, use right click)*
+   🔗 [LinkedIn profile](https://www.linkedin.com/in/marija-kilibarda-3b939114/) 
